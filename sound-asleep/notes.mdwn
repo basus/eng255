@@ -1,0 +1,26 @@
+# Sound asleep proposal
+
+## Proposal
+
+Sound Asleep is a short story/novella set in the near future -- before the end of the 21st century. It takes place in a plausibly extrapolated future with a focus more on the social and political changes brought about by advanced technology being an accepted part of daily life. It explores social themes such as capital punishment, euthanasia, privacy, government control over distribution of resources and evolving legal and political structures. It incorporates technology such as cryostasis, integrated omnipresent datanets, neural enhancements and brain hacking and emerging AI.
+
+## Form
+Sound Asleep follows the form of a traditional long-short story divided into a number of chapters. Most of the storytelling will be in third person, but some mini-chapters will either monologues by characters, or narrations from a character's viewpoint. There will also be poetry embedded in the text, mostly from one of the characters (see below).
+
+## Characters
+
+The main characters, described as archetypes for the time being, to become individuals as the story progresses.
+
+   1. The Traveler -- the central character, convicted for the murder of his wife (for euthanasia) and sentenced to infinite cryostasis. Later revived when euthanasia laws are changed.
+   2. The Ghost -- the Travelers wife, appearing only in the Traveler's dreams, hallucinations and as a result of his experiments into neural enhancements
+   3. The Poet -- An emerging AI assigned to be the Traveler's 'companion'. An important contributor to the Traveler's actions and decisions
+   4. The Sergeant -- the Traveler's 'parole officer' keeps the Traveler under surveillance but rarely contacts him. Reports regularly to an unnamed superior.
+   5. The Outcast --  a voluntary outcast from society living just outside, making a living from tempting others to cross over. Communes with the Poet and becomes the Traveler's supplier
+
+## Basic premise
+
+The laws of physics tell us that we can two out of following three things in one Universe: Causality. relativity, and time travel. We have the first two in our Universe and everything that we know tells us that we can't have the third. However, the truth is that we are traveling through time, hurtling without any stopping or slowing on a one-way course to the future. To the human mind, time often seems to flow at different times, sometimes faster, sometimes slower. But what if you could leapfrog through time? Skipping aeons in the blink of an eye. Laying to rest in one century and awaking in the next. What if you had no other choice?
+
+In the middle of the 21st century, a conservative, pro-life government comes to power in the United States. New legislation bans abortion and euthansia, but also abolishes captial punishment, instead opting for indefinite cryostasis. The Traveler is a University professor who is convicted of helping his wife commit suicide. In accordance with the new laws he is sentenced to indefinite cryostasis with no chance of parole.
+
+At some point in future (late 21st, early 22nd century) a new government repeals earlier laws, in particular the bans on euthanasia and abortion. The Traveler is granted a full pardon and is released into a new world. He is assigned an AI 'companion' who calls emself The Poet.
